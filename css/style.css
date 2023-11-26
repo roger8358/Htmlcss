@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    font-size: 40px;
+    background:red;
+    width: 300px;
+
+}
+
+p{
+    color: red;
+    font-size: 20px;
+
+}
+
+.high{
+     color:black;
+     font-size: 10px;
+
+}
